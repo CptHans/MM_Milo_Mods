@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DataBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <skv_fswizard_machine>
+    <name>Generic VMC</name>
+    <id>1</id>
+    <GUID>8d7a7b31-766f-4429-afdc-1b7aee09b0cc</GUID>
+    <create_date>2025-04-04T15:24:43.4733512Z</create_date>
+    <update_date>2025-04-04T15:24:43.4733512Z</update_date>
+    <Max_HP>10</Max_HP>
+    <Min_RPM>60</Min_RPM>
+    <Max_RPM>10000</Max_RPM>
+    <Max_Tap_RPM>0</Max_Tap_RPM>
+    <Max_Torque>40</Max_Torque>
+    <Max_Feed>300</Max_Feed>
+    <warning_PC>95</warning_PC>
+    <Use_Curve>true</Use_Curve>
+    <Use_Sticky_RPM>false</Use_Sticky_RPM>
+    <Cloud_Private>false</Cloud_Private>
+    <units>0</units>
+    <Tool_Library />
+  </skv_fswizard_machine>
+  <skv_fswizard_p_curve>
+    <machine_id>1</machine_id>
+    <machine_guid>8d7a7b31-766f-4429-afdc-1b7aee09b0cc</machine_guid>
+    <rpm>60</rpm>
+    <hp>0.4</hp>
+    <torque>35.02</torque>
+  </skv_fswizard_p_curve>
+  <skv_fswizard_p_curve>
+    <machine_id>1</machine_id>
+    <machine_guid>8d7a7b31-766f-4429-afdc-1b7aee09b0cc</machine_guid>
+    <rpm>1500</rpm>
+    <hp>10</hp>
+    <torque>35.02</torque>
+  </skv_fswizard_p_curve>
+  <skv_fswizard_p_curve>
+    <machine_id>1</machine_id>
+    <machine_guid>8d7a7b31-766f-4429-afdc-1b7aee09b0cc</machine_guid>
+    <rpm>7500</rpm>
+    <hp>10</hp>
+    <torque>7</torque>
+  </skv_fswizard_p_curve>
+  <skv_fswizard_p_curve>
+    <machine_id>1</machine_id>
+    <machine_guid>8d7a7b31-766f-4429-afdc-1b7aee09b0cc</machine_guid>
+    <rpm>10000</rpm>
+    <hp>5.01</hp>
+    <torque>2.63</torque>
+  </skv_fswizard_p_curve>
+</DataBase>
