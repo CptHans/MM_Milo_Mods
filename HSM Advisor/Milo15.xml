@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DataBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <skv_fswizard_machine>
+    <MachineType>Mill</MachineType>
+    <name>Milo 1.5</name>
+    <id>1</id>
+    <GUID>bffeaf87-426c-4fd1-9f8d-fe0fa16d1ec8</GUID>
+    <create_date>2025-04-04T15:50:30.3147332Z</create_date>
+    <update_date>2025-04-04T15:50:30.3147332Z</update_date>
+    <Max_HP>1.5</Max_HP>
+    <Min_RPM>9000</Min_RPM>
+    <Max_RPM>24000</Max_RPM>
+    <Max_Tap_RPM>0</Max_Tap_RPM>
+    <Max_Torque>0.95</Max_Torque>
+    <Max_Feed>4000</Max_Feed>
+    <Max_Force>5</Max_Force>
+    <warning_PC>0</warning_PC>
+    <Use_Curve>0</Use_Curve>
+    <Use_Sticky_RPM>0</Use_Sticky_RPM>
+    <Cloud_Private>0</Cloud_Private>
+    <units>1</units>
+    <isDefaultForSupportedTools>0</isDefaultForSupportedTools>
+    <Tool_Library />
+  </skv_fswizard_machine>
+  <skv_fswizard_p_curve>
+    <machine_id>1</machine_id>
+    <machine_guid>bffeaf87-426c-4fd1-9f8d-fe0fa16d1ec8</machine_guid>
+    <rpm>10000</rpm>
+    <hp>1</hp>
+    <torque>0.969</torque>
+  </skv_fswizard_p_curve>
+  <skv_fswizard_p_curve>
+    <machine_id>1</machine_id>
+    <machine_guid>bffeaf87-426c-4fd1-9f8d-fe0fa16d1ec8</machine_guid>
+    <rpm>15000</rpm>
+    <hp>1.5</hp>
+    <torque>0.955</torque>
+  </skv_fswizard_p_curve>
+  <skv_fswizard_p_curve>
+    <machine_id>1</machine_id>
+    <machine_guid>bffeaf87-426c-4fd1-9f8d-fe0fa16d1ec8</machine_guid>
+    <rpm>20000</rpm>
+    <hp>1.5</hp>
+    <torque>0.716</torque>
+  </skv_fswizard_p_curve>
+  <skv_fswizard_p_curve>
+    <machine_id>1</machine_id>
+    <machine_guid>bffeaf87-426c-4fd1-9f8d-fe0fa16d1ec8</machine_guid>
+    <rpm>24000</rpm>
+    <hp>1.5</hp>
+    <torque>0.597</torque>
+  </skv_fswizard_p_curve>
+</DataBase>
